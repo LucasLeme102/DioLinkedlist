@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DioLinkedlist.iml" filepath="$PROJECT_DIR$/DioLinkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dio-Collections.iml" filepath="$PROJECT_DIR$/Dio-Collections.iml" />
     </modules>
   </component>
 </project>
